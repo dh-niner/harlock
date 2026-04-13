@@ -1,0 +1,105 @@
+.header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: RGB(0, 163, 255);
+    color: white;
+    padding: 5px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.header a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+.infobox {
+    width: 900px;
+    height: 600px;
+    border-radius: 12px;
+    padding: 2px;
+    background-color: RGB(0, 163, 255, .1);
+    color: white;
+    display: inline-block;
+    font-size: 24px;
+}
+
+body {
+    background-image: url(assets/background.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+a {
+    color: white;
+}
+
+.buttons {
+    width: 100px;
+    height: 45px;
+    background-color: rgba(0, 163, 255, 0.1);
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+    border-radius: 12px;
+    float: right;
+}
+
+.vampiresquid {
+    width: 600px;
+    height: 600px;
+    border-radius: 12px;
+    padding: 2px;
+    background-color: RGB(0, 163, 255, .1);
+    color: white;
+    float: left;
+}
+
+.seapig {
+    width: 600px;
+    height: 600px;
+    border-radius: 12px;
+    padding: 2px;
+    background-color: RGB(0, 163, 255, .1);
+    color: white;
+    float: left;
+}
+
+.silkyjelly {
+    width: 600px;
+    height: 600px;
+    border-radius: 12px;
+    padding: 2px;
+    background-color: RGB(0, 163, 255, .1);
+    color: white;
+    float: left;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    float: right;
+}
+
+.Obuttons {
+    width: 100px;
+    height: 45px;
+    background-color: rgba(0, 163, 255, 0.1);
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.cites {
+    width: 1000px;
+    height: 600px;
+    border-radius: 12px;
+    padding: 2px;
+    background-color: RGB(0, 163, 255, .1);
+    color: white;
+    display: inline-block;
+}
